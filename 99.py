@@ -1,2 +1,2 @@
-4,5,6=list(map(int,input().split()))
-print(4*5%6)
+ch1,ch2,ch3=map(int,input().split())
+print((ch1*ch2)%ch3)
